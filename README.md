@@ -1,3 +1,3 @@
-#pkozito
+# pkozito
 
-<img src="/media/html.png" width="500">
+<img src="/media/html.png" width="50">
