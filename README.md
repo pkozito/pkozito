@@ -7,16 +7,16 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/html.png"> <source media="(prefers-color-scheme: light)" srcset="media/html.png"> <img src="media/html.png" width="40">
+  <source media="(prefers-color-scheme: dark)" srcset="media/html.png"> <source media="(prefers-color-scheme: light)" srcset="media/html.png"> <img src="media/html.png" width="50">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/css.png"> <source media="(prefers-color-scheme: light)" srcset="media/css.png"> <img src="media/css.png" width="40">
+  <source media="(prefers-color-scheme: dark)" srcset="media/css.png"> <source media="(prefers-color-scheme: light)" srcset="media/css.png"> <img src="media/css.png" width="50">
 </picture>
 <picture>
-    <source srcset="media/javascript.png"> <img src="media/javascript.png" width="40">
+    <source srcset="media/javascript.png"> <img src="media/javascript.png" width="50">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/linux.png"> <source media="(prefers-color-scheme: light)" srcset="media/linux.png"> <img src="media/linux.png" width="40">
+  <source media="(prefers-color-scheme: dark)" srcset="media/linux.png"> <source media="(prefers-color-scheme: light)" srcset="media/linux.png"> <img src="media/linux.png" width="50">
 </picture>
 
 <br>
