@@ -1,7 +1,7 @@
 # pkozito
 
 ## Encuentrame en:
-[![LinkedIn]()](https://www.linkedin.com/in/pkozito)
+[![LinkedIn](media/linkedin)](https://www.linkedin.com/in/pkozito)
 
 ## Skills
 
