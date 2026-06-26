@@ -1,7 +1,7 @@
 # pkozito
 
 ## Encuentrame en:
-[![LinkedIn]](https://www.linkedin.com/in/pkozito)
+[![LinkedIn]()](https://www.linkedin.com/in/pkozito)
 
 ## Skills
 
@@ -16,3 +16,5 @@
 <picture>
     <source media="(prefers-color-scheme: dark" srcset="media/linux.png"> <source media="(prefers-color-scheme: light)" srcset="media/linux.png">
 </picture>
+
+![pkozito's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkozito&show_icons=true)
