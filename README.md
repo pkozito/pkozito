@@ -19,7 +19,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pkozito&show_icons=true&theme=dark&hide-border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=pkozito&show_icons=true&hide-border=false&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
