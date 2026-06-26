@@ -11,6 +11,5 @@
 </picture>
 
 <picture>
-    <source media="(prefers-color-scheme: dark" srcset="media/linux_light.png"> <source media="(prefers-color-scheme: light)" srcset="media/linux.png">
-    <img src="media/linux.png" alt="Tux"
+    <source media="(prefers-color-scheme: dark" srcset="media/linux_light.png"> <source media="(prefers-color-scheme: light)" srcset="media/linux.png"> <img src="media/linux.png" alt="Tux" width="50">
 </picture>
