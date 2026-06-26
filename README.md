@@ -1,7 +1,7 @@
 # pkozito
 
 ## Encuentrame en:
-[![LinkedIn](media/linkedin.png)](https://www.linkedin.com/in/pkozito)
+[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/linkedin/linkedin-original.svg])(https://www.linkedin.com/in/pkozito)
 
 ## Skills
 
