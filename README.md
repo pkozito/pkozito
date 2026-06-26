@@ -5,7 +5,7 @@
 
 ## Skills
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/css.png"> <source media="(prefers-color-scheme: light)" srcset="media/css.png"> <img src="media/html">
+  <source media="(prefers-color-scheme: dark)" srcset="media/html.png"> <source media="(prefers-color-scheme: light)" srcset="media/html.png"> <img src="media/html.png" width="40">
 </picture>
 
 <picture>
