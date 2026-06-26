@@ -4,10 +4,7 @@
 [![LinkedIn]()](https://www.linkedin.com/in/pkozito)
 
 ## Skills
-
-<picture>
-  <img src="media/html.pg" widht="40">
-</picture>
+<img src="media/html.pg" widht="40">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="media/css.png"> <source media="(prefers-color-scheme: light)" srcset="media/css.png">
