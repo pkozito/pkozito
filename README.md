@@ -6,7 +6,7 @@
 ## Skills
 
 <picture>
-  <source srcset="media/html.png"> <img srcset="media/html.pg">
+  <img src="media/html.pg" widht="40">
 </picture>
 
 <picture>
