@@ -15,7 +15,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="media/linux.png"> <source media="(prefers-color-scheme: light)" srcset="media/linux.png"> <img src="media/linux.png" width="40">
 </picture>
-<br>
+<br
+
+![Logo de HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
 
 <picture>
   <source
