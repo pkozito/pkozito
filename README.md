@@ -6,7 +6,7 @@
 ## Skills
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/html.png"> <source media="(prefers-color-scheme: light)" srcset="media/html.png">
+  <source srcset="media/html.png">
 </picture>
 
 <picture>
