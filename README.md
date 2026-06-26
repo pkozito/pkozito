@@ -18,7 +18,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="media/linux.png"> <source media="(prefers-color-scheme: light)" srcset="media/linux.png"> <img src="media/linux.png" width="40">
 </picture>
-</p>
 
 <br>
 
@@ -33,3 +32,4 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=pkozito&show_icons=true&hide_border=true" />
 </picture>
+</p>
